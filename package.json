@@ -6,7 +6,7 @@
     "page",
     "pagination",
     "materialize",
-    "materialize pagnation",
+    "materialize pagination",
     "materializecss",
     "materialize.css",
     "materialize.scss",
@@ -15,22 +15,22 @@
     "ecosystem:jquery"
   ],
   "version": "0.2.2",
-  "author": "Mirjam Skarica (https://github.com/mirjamsk)",
+  "author": "Mirjam Skarica (https://github.com/mirjamsk), fix by Via Fabula",
   "bugs": {
-    "url": "https://github.com/mirjamsk/materialize-pagination/issues"
+    "url": "https://github.com/ViaFabula/materialize-pagination/issues"
   },
-  "homepage": "http://mirjamsk.github.io/materialize-pagination/",
+  "homepage": "http://ViaFabula.github.io/materialize-pagination/",
   "dependencies": {
     "jquery": ">=2.1"
   },
   "style": ".style/css/.*css",
-  "main": "materialize-pagination.min.js",
+  "main": "materialize-pagination.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mirjamsk/materialize-pagination.git"
+    "url": "https://github.com/ViaFabula/materialize-pagination.git"
   },
   "license": "MIT"
 }
